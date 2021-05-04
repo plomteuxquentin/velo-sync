@@ -31,7 +31,7 @@ To use the velo sync CLI Application, you need to prepare your data, prepare you
 
 The data to be imported or synced should be formatted as a standard CSV file, with the following conventions
 * header line with field names.
-* any field that includes a comma (`,`) or new like should be quoted with `"`.
+* any field that includes a comma (`,`) or new line should be quoted with `"`.
 * field values that include quotes should escape the quotes with double quotes `""`.
 
 An example CSV file
